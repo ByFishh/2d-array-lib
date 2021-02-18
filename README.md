@@ -1,9 +1,9 @@
 A library for C development.
 
-#Description
+# Description
 2d-array-lib is a brand new lib to help you to use the 2d arrays in C.
 
-#Functions
+# Functions
 
 Malloc char / int 2d array:
 ```C
